@@ -1,4 +1,4 @@
-# Hey, I'm Madhav Madupu! 👋
+## Hey, I'm Madhav Madupu! 👋
 
 I'm a developer based in [India](https://madhavmadupu-portfolio.vercel.app/), passionate about crafting digital experiences.
 
