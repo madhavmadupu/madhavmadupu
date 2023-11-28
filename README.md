@@ -1,24 +1,27 @@
-### Hey, I'm Madhav Madupu! 👋
+### Hey, I'm Madhav 👋 
 
-I'm a developer based in [India](https://madhavmadupu-portfolio.vercel.app/), passionate about crafting digital experiences.
+I'm a 20 year old developer based in Germany, and I'm passionate about crafting digital experiences. 
 
-- 🌐 Explore my portfolio: [madhavmadupu-portfolio.vercel.app](https://madhavmadupu-portfolio.vercel.app/)
-- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/madhav-madupu) and [Instagram](https://www.instagram.com/madhav._.madupu/)
-- 💼 Professional inquiries: [mirayatech.contact@gmail.com](mailto:mirayatech.contact@gmail.com)
+- Check out my [website]([https://www.miraya.tech/](https://madhavmadupu-dashboard.vercel.app/)) to learn more about me.
+- Stay updated with my journey on [Instagram](https://www.instagram.com/madhav._.madupu/) and [LinkedIn](https://www.linkedin.com/in/madhavmadupu/).
 
-## 🔭 Current Endeavors
+## 🔭 Current Endeavors 
 
-I'm engaged in exciting full-stack projects, exploring Python and Nest.js to enhance my skill set. Always an early riser, driven, and constantly learning in the tech world.
+I'm currently persuing my Graduation in India, where my journey involves both building and learning. Here's what I'm currently focused on:
 
-## ✨ Fun Facts
+- I'm engaged in exciting Machine Learning and NLP's.
+- I'm exploring Python adn Nest.js to enhance my skill set.
+- I'm an early riser, always driven and constantly learning in the tech world.
 
-- 🔥 Achievement: YOLO
-- 🚀 Aspired to be an astronaut as a kid
-- 💻 HTML was my first programming language
-- 🍎 Enjoying Mac after switching from Linux
+## ✨ Fun Facts 
+
+- Football is my Favourite Game.
+- As a kid, I wanted to be a Robotic Engineer.
+- I learnt Python in 6th grade.
+- I love using Mac after switching from Linux.
 
 ## 📫 Contact
 
-For a quick response, DM me on [Instagram](https://www.instagram.com/madhav._.madupu/) or [LinkedIn](https://www.linkedin.com/in/madhav-madupu).
-
-For professional inquiries, reach out via email at mirayatech.contact@gmail.com.
+ For a quick response, DM me on [Instagram](https://www.instagram.com/madhav._.madupu/) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
+ 
+ For professional inquiries, reach out via email at [madhav.madupu@gmail.com](mailto:madhav.madupu@gmail.com). 
