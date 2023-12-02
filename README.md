@@ -18,7 +18,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - Football is my Favourite Game.
 - As a kid, I wanted to be a Robotic Engineer.
 - I learnt Python in 6th grade.
-- I love using Mac after switching from Linux.
 
 ## 📫 Contact
 
