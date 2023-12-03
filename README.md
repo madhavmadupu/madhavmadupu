@@ -1,4 +1,4 @@
-### Hey, I'm Madhav https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+# Hello, I am <a  href="https://www.linkedin.com/in/madhavmadupu/">Madhav</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 I'm a 20 year old developer based in India, and I'm passionate about crafting AI experience. 
 
