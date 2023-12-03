@@ -1,4 +1,4 @@
-### Hey, I'm Madhav 👋 
+### Hey, I'm Madhav https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
 
 I'm a 20 year old developer based in India, and I'm passionate about crafting AI experience. 
 
