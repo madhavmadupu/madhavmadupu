@@ -102,7 +102,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/240px-Arduino_Uno_-_R3.jpg" alt="arduino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
     <img src="https://www.uipath.com/hubfs/brand/logos/rpa-lp-logo-dark.svg" alt="uipath" width="40" height="40"/>
