@@ -102,10 +102,10 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" alt="arduino" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" alt="arduino" height="40"/>
   </a>
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.uipath.com/hubfs/brand/logos/rpa-lp-logo-dark.svg" alt="uipath" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-uipath/contentbuilder/Ui%201080%20x%201080_N4wzQly.png" alt="uipath" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
