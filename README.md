@@ -126,6 +126,8 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - As a kid, I wanted to be a Robotic Engineer.
 - I learnt Python in 6th grade.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavmadupu&show_icons=true&locale=en&layout=compact" alt="madhavmadupu" /></p>
+
 ## 📫 Contact
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/madhav._.madupu/) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
