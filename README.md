@@ -119,7 +119,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 </p>
 
 
-
 ## ✨ Fun Facts 
 
 - Football is my Favourite Game.
