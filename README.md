@@ -66,9 +66,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 </p>
 
 ## My Github Stats
-
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=madhavmadupu)
-
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu)
 
 ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu)
