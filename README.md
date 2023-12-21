@@ -68,7 +68,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 ## My Github Stats
 <p>
   
-  <img src='https://hacked-github-stat-trophies.vercel.app/?username=tynab&theme=dracula&column=11'>
+  <img src='https://hacked-github-stat-trophies.vercel.app/?username=madhavmadupu&theme=dracula&column=11'>
   
   ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu)
   
