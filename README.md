@@ -66,13 +66,11 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 </p>
 
 ## My Github Stats
-![](https://github-profile-trophy.vercel.app/?username=saipradyumnanprem&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu)
-  
-  ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu)
-</p>
+![](https://github-profile-trophy.vercel.app/?username=madhavmadupu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## Certifications
 <div>
