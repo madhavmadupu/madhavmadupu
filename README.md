@@ -76,10 +76,11 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 </p>
 
 ## Certifications
-<a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
-    <img src='certificate/Java1.png' width='279' title='Java (Basic)'>
-</a>
-
+<div>
+  <a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
+      <img src='certificate/Java1.png' width='279' title='Java (Basic)'>
+  </a>
+</div>
 ## ✨ Fun Facts 
 
 - Football is my Favourite Game.
