@@ -75,6 +75,11 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
   ![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu)
 </p>
 
+## Certifications
+<a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
+    <img src='certificate/Java1.png' width='279' title='Java (Basic)'>
+</a>
+
 ## ✨ Fun Facts 
 
 - Football is my Favourite Game.
