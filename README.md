@@ -70,8 +70,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=madhavmadupu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ## Certifications
 <div>
   <a href='https://www.hackerrank.com/certificates/18b8b69e9e0f'>
