@@ -13,7 +13,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - I'm exploring Python adn Nest.js to enhance my skill set.
 - I thrive in the late hours, always driven and constantly learning in the tech world.
 
-<p align="left">
+<p align="center">
   <!-- Machine Learning -->
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
