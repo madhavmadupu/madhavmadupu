@@ -76,6 +76,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
       <img src='certificate/Java1.png' width='279' title='Java (Basic)'>
   </a>
 </div>
+
 ## ✨ Fun Facts 
 
 - Football is my Favourite Game.
