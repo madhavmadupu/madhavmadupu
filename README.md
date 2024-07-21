@@ -28,6 +28,8 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - I'm exploring Python adn Nest.js to enhance my skill set.
 - I thrive in the late hours, always driven and constantly learning in the tech world.
 
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,firebase,tailwind,graphql,prisma,redis,mongodb,postgresql)
+
 <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; gap:1rem">
     <div style="display:flex;justify-content:center; align-items:center">
         <img style="width: 80px" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif">
