@@ -28,7 +28,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - I'm exploring Python adn Nest.js to enhance my skill set.
 - I thrive in the late hours, always driven and constantly learning in the tech world.
 
-<a href="https://app.daily.dev/madhavmadupu" style><img src="https://api.daily.dev/devcards/v2/NtNcsQHZXCxieaCcrhEsr.png?type=default&r=4ax" width="356" alt="Madhav Madupu's Dev Card"/></a>
+<a href="https://app.daily.dev/madhavmadupu"><img src="https://api.daily.dev/devcards/v2/NtNcsQHZXCxieaCcrhEsr.png?type=wide&r=dhk" width="652" alt="Madhav Madupu's Dev Card"/></a>
 
 ## My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
