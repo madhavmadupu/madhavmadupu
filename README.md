@@ -3,7 +3,7 @@
 I'm a 20 year old developer based in India, and I'm passionate about crafting AI experience. 
 
 - Check out my [website]([https://www.miraya.tech/](https://madhavmadupu-dashboard.vercel.app/)) to learn more about me.
-- Stay updated with my journey on [Instagram](https://www.instagram.com/madhav._.madupu/) and [LinkedIn](https://www.linkedin.com/in/madhavmadupu/).
+- Stay updated with my journey on [Instagram](https://www.instagram.com/madhavmadupu/) and [LinkedIn](https://www.linkedin.com/in/madhavmadupu/).
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀　　　　　　✦ 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀☀️
@@ -55,7 +55,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/madhav._.madupu/) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/madhavmadupu/) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
  
  For professional inquiries, reach out via email at [madhav.madupu@gmail.com](mailto:madhav.madupu@gmail.com).
 
