@@ -39,7 +39,7 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
     <a href="https://app.daily.dev/madhavmadupu"><img src="https://api.daily.dev/devcards/v2/NtNcsQHZXCxieaCcrhEsr.png?type=default&r=4ax" width="356" alt="Madhav Madupu's Dev Card"/></a>
 </div>
 
-
+[![An image of @madhavmadupu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavmadupu)](https://holopin.io/@madhavmadupu)
 ## My Github Stats
 <div style="display:flex; flex-direction:column;justify-content:center; align-items:center; gap:1rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false">
