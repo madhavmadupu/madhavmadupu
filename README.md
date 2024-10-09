@@ -37,7 +37,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
         <img style="width: 80px" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
     </div>
     <a href="https://app.daily.dev/madhavmadupu"><img src="https://api.daily.dev/devcards/v2/NtNcsQHZXCxieaCcrhEsr.png?type=default&r=4ax" width="356" alt="Madhav Madupu's Dev Card"/></a>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="hacktoberfest registered" />
 </div>
 
 ## My Github Stats
@@ -58,5 +57,3 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
  For a quick response, DM me on [Instagram](https://www.instagram.com/madhavmadupu/) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
  
  For professional inquiries, reach out via email at [madhav.madupu@gmail.com](mailto:madhav.madupu@gmail.com).
-
-<img src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FRxtSl4eMEcoB4hCpGk9B6D%2FCollections%3Fnode-id%3D9-5%26t%3DjoKMaOzUzoLBGxcd-1" alt="fig"/>
