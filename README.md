@@ -21,7 +21,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
         <img style="width: 80px" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif">
         <img style="width: 80px" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
     </div>
-    <a href="https://app.daily.dev/madhavmadupu"><img src="https://api.daily.dev/devcards/v2/NtNcsQHZXCxieaCcrhEsr.png?type=default&r=4ax" width="356" alt="Madhav Madupu's Dev Card"/></a>
 </div>
 
 ## My Github Stats
