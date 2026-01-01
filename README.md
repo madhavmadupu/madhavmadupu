@@ -13,8 +13,6 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 - I'm exploring Python adn Nest.js to enhance my skill set.
 - I thrive in the late hours, always driven and constantly learning in the tech world.
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,next,nodejs,express,firebase,tailwind,graphql,prisma,redis,mongodb,postgresql)
-
 <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; gap:1rem">
     <div style="display:flex;justify-content:center; align-items:center">
         <img style="width: 80px" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif">
@@ -24,20 +22,10 @@ I'm currently persuing my Graduation in India, where my journey involves both bu
 </div>
 
 ## My Github Stats
+
 <div style="display:flex; flex-direction:column;justify-content:center; align-items:center; gap:1rem;">
-    <img src="https://github-readme-stats.vercel.app/api?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu&theme=nightowl&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
-## ✨ Fun Facts 
-
-- Football is my Favourite Game.
-- As a kid, I wanted to be a Robotic Engineer.
-- I learnt Python in 6th grade.
-
 ## 📫 Contact
-
- For a quick response, DM me on [Instagram](https://www.instagram.com/madhavmadupu/) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
- 
- For professional inquiries, reach out via email at [madhav.madupu@gmail.com](mailto:madhav.madupu@gmail.com).
+For a quick response, Mail me on [madhav.madupu@gmail.com](mailto:madhav.madupu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/madhavmadupu/). 
