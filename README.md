@@ -1,45 +1,66 @@
-# Hello, I'm [Madhav](https://www.linkedin.com/in/madhavmadupu/) 👋  
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" />
+# Hey, I'm Madhav 👋
 
-I’m a 21-year-old developer based in Hyderabad, India, passionate about building intelligent, human-centered AI experiences.
+**AI/ML Engineer** building intelligent systems with Python, TensorFlow & GCP  
+Based in Hyderabad, India 🇮🇳
 
-- 🌐 Learn more about my work on my [portfolio](https://madhavmadupu-dashboard.vercel.app/)
-- 📸 Follow my journey on [Instagram](https://www.instagram.com/madhavmadupu/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/madhavmadupu/)
+I specialize in **machine learning pipelines**, **NLP/LLMs**, and **scalable cloud infrastructure**—turning data into decisions and models into production systems.
 
 ---
 
-## 🔭 What I’m Working On
+## 🚀 What I'm Building
 
-I’m currently pursuing my Bachelor’s in Computer Science (expected May 2026), and every day is a blend of building, breaking, and learning. Right now, I’m deep in:
+Currently diving deep into:
+- **RAG systems** with vector databases and LLM orchestration
+- **Financial ML models** for market prediction and risk analysis  
+- **Production MLOps** on Google Cloud Platform
+- **Full-stack AI applications** with NestJS and React
 
-- **Machine Learning & NLP** projects—especially in finance and predictive analytics  
-- **Python, TensorFlow, and Scikit-learn** for scalable ML pipelines on **Google Cloud Platform (GCP)**  
-- **NestJS & modern backend architecture** to complement my full-stack expertise  
-- Late-night coding sessions fueled by curiosity and coffee ☕
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 1rem; margin: 1.5rem 0;">
-  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="80px">
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="80px">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80px">
-</div>
+🎓 **CS Undergrad** (May 2026) | Always learning, always building
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Featured Projects
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 1rem; margin: 1.5rem 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavmadupu&theme=nightowl&hide_border=true" alt="GitHub Streak">
-</div>
+### 🤖 [RAG System](https://github.com/madhavmadupu/rag-project)
+Retrieval-Augmented Generation pipeline with semantic search and context-aware responses  
+`Python` `LangChain` `ChromaDB` `OpenAI API`
+
+### 📈 [FinPredict](https://github.com/madhavmadupu/FinPredict)
+Financial market prediction using ensemble ML models with 87% accuracy  
+`TensorFlow` `Scikit-learn` `Pandas` `Time Series Analysis`
+
+### 📊 [Revenue Analytics Dashboard](https://github.com/madhavmadupu/Revenue-Data-Analysis-Interactive-Dashboard)
+Interactive business intelligence dashboard uncovering sales trends and growth patterns  
+`Python` `Plotly Dash` `Data Visualization`
+
+### 🏦 [JPMorgan Software Engineering Simulation](https://github.com/madhavmadupu/JPMorgan-Chase-Co.-Software-Engineering-Job-Simulation)
+Financial data visualization and analysis tools for trading systems  
+`Java` `React` `Data Processing`
 
 ---
 
-## 📫 Get in Touch
+## 🛠️ Tech Stack
 
-For collaborations, opportunities, or just a tech chat—feel free to reach out!  
-📧 [madhav.madupu@gmail.com](mailto:madhav.madupu@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/madhavmadupu/)
+**Languages:** Python · Java · JavaScript/TypeScript · SQL  
+**ML/AI:** TensorFlow · PyTorch · Scikit-learn · LangChain · HuggingFace  
+**Cloud & Data:** GCP · BigQuery · Docker · Apache Spark  
+**Backend:** NestJS · FastAPI · Flask · Node.js  
+**Frontend:** React · Next.js · TypeScript
 
 ---
 
-> *I’m actively seeking roles in **Machine Learning Engineering, AI/LLM Development, and Full-Stack Software Engineering**—especially at the intersection of finance, scalability, and intelligent systems.*
+## 📫 Let's Connect
+
+Building something interesting? Let's talk about AI, finance tech, or cloud architecture.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavmadupu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.madupu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://madhavmadupu-dashboard.vercel.app/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavmadupu&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+💡 *Open to ML Engineer, AI Engineer, and Full-Stack roles—especially at the intersection of finance and intelligent systems*
