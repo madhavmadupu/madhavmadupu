@@ -60,7 +60,7 @@ Building something interesting? Let's talk about AI, finance tech, or cloud arch
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavmadupu&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=madhavmadupu)
 ---
 
 💡 *Open to ML Engineer, AI Engineer, and Full-Stack roles—especially at the intersection of finance and intelligent systems*
