@@ -3,7 +3,7 @@
 **AI/ML Engineer** building intelligent systems with Python, TensorFlow & GCP  
 Based in Hyderabad, India 🇮🇳
 
-I specialize in **machine learning pipelines**, **NLP/LLMs**, and **scalable cloud infrastructure**—turning data into decisions and models into production systems.
+I specialize in **machine learning pipelines**, **NLP/LLMs**, and **scalable cloud infrastructure** turning data into decisions and models into production systems.
 
 ---
 
