@@ -18,6 +18,12 @@ I build intelligent systems that don't just predict, but **reason and execute**.
 
 ### 🚀 Featured AI Projects
 
+#### 📂 [LOCO: Local-Only Contextual Orchestration](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fmadhavmadupu%2Floco-rag-engine)
+Production-ready, privacy-first RAG system for secure document intelligence.
+-   **Impact:** Built a high-performance local RAG pipeline that eliminates cloud dependencies, ensuring 100% data sovereignty for sensitive enterprise documents.
+-   **Key Feature:** Engineered a **Semantic Chunking** engine that splits text based on topic shifts rather than character counts, paired with **LanceDB hybrid search** for industry-leading retrieval accuracy.
+-   **Tech:** Next.js 15 (App Router), FastAPI, LanceDB (Vector Store), Ollama (Llama 3.2), Tailwind CSS.
+
 #### 🤖 [LISA: Local Intelligence Software Architect](https://github.com/madhavmadupu/lisa-agentic)
 *Autonomous Multi-Agent System for Secure, Air-Gapped SDLC.*
 - **Impact:** Designed a local-first orchestration framework using **LangGraph** and **Ollama** to automate code generation, testing, and refactoring.
@@ -30,15 +36,15 @@ I build intelligent systems that don't just predict, but **reason and execute**.
 - **Key Feature:** High-speed research synthesis using **Gemini 2.0 Flash** and DuckDuckGo integration, providing structured reports for healthcare professionals.
 - **Tech:** Gemini 2.0 API, Python, Streamlit, DuckDuckGo Search API.
 
-#### 📈 [FinPredict: Market Forecasting](https://github.com/madhavmadupu/FinPredict)
-*Time-series prediction for financial markets with 87% accuracy.*
-- **Impact:** Engineered ensemble ML models (LSTMs + XGBoost) for market trend prediction. Integrated data versioning and model monitoring.
-- **Tech:** TensorFlow, Scikit-learn, Pandas, Time Series Analysis.
-
 #### 🎙️ [Multimodal AI Voice Agent](https://github.com/madhavmadupu/AI-Voice-Agent)
 *Real-time conversational AI with visual and auditory perception.*
 - **Impact:** Built a low-latency voice agent on **Vertex AI** capable of real-time screen processing and speech-to-speech interaction.
 - **Tech:** Vertex AI (Gemini 1.5 Pro), WebRTC, Google Cloud Functions.
+
+#### 📈 [FinPredict: Market Forecasting](https://github.com/madhavmadupu/FinPredict)
+*Time-series prediction for financial markets with 87% accuracy.*
+- **Impact:** Engineered ensemble ML models (LSTMs + XGBoost) for market trend prediction. Integrated data versioning and model monitoring.
+- **Tech:** TensorFlow, Scikit-learn, Pandas, Time Series Analysis.
 
 ---
 
