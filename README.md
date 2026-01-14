@@ -18,7 +18,7 @@ I build intelligent systems that don't just predict, but **reason and execute**.
 
 ### 🚀 Featured AI Projects
 
-#### 📂 [LOCO: Local-Only Contextual Orchestration](https://www.google.com/url?sa=E&q=https%3A%2F%2Fgithub.com%2Fmadhavmadupu%2Floco-rag-engine)
+#### 📂 [LOCO: Local-Only Contextual Orchestration](https://github.com/madhavmadupu/loco-rag-engine)
 Production-ready, privacy-first RAG system for secure document intelligence.
 -   **Impact:** Built a high-performance local RAG pipeline that eliminates cloud dependencies, ensuring 100% data sovereignty for sensitive enterprise documents.
 -   **Key Feature:** Engineered a **Semantic Chunking** engine that splits text based on topic shifts rather than character counts, paired with **LanceDB hybrid search** for industry-leading retrieval accuracy.
