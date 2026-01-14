@@ -52,14 +52,6 @@ I build intelligent systems that don't just predict, but **reason and execute**.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavmadupu&show_icons=true&theme=transparent&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavmadupu&layout=compact&theme=transparent" />
-</p>
-
----
-
 ### 📫 Let's Connect
 I'm looking for roles at the intersection of **Generative AI, Finance, and Cloud Architecture**. If you're building autonomous systems, let's collaborate.
 
