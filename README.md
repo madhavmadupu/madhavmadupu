@@ -13,9 +13,6 @@ I build intelligent systems that don't just predict, but **reason and execute**.
   - Engineered clearer diagnostic error messages for **XLA compilation** within `tf.image.extract_patches`.
   - Resolved cryptic TypeErrors by ensuring windowing parameters are validated as compile-time constants.
   - View my PR: https://github.com/tensorflow/tensorflow/pull/108476
-- **[GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples):** Official Contributor to Google Cloud samples. 
-  - Engineered production-ready code for **Vertex AI Agent Engine (Reasoning Engine)** and **Gemini AI** integration. 
-  - Refined multimodal image processing pipelines and optimized dependency management for Python-based cloud services.
 - **[GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples):** Official Contributor to Google Cloud samples.
   - Engineered production-ready code for **Vertex AI Agent Engine (Reasoning Engine)** and **Gemini AI** integration.
   - **Reliability Engineering:** Resolved `FileNotFoundError` edge cases in image-generation samples by implementing automated directory creation and PEP 8-standardized path handling.
