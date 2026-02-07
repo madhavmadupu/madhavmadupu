@@ -16,7 +16,10 @@ I build intelligent systems that don't just predict, but **reason and execute**.
 - **[GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples):** Official Contributor to Google Cloud samples. 
   - Engineered production-ready code for **Vertex AI Agent Engine (Reasoning Engine)** and **Gemini AI** integration. 
   - Refined multimodal image processing pipelines and optimized dependency management for Python-based cloud services.
-- **Agentic AI Researcher:** Focused on self-correcting LLM loops and local inference security.
+- **[GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples):** Official Contributor to Google Cloud samples.
+  - Engineered production-ready code for **Vertex AI Agent Engine (Reasoning Engine)** and **Gemini AI** integration.
+  - **Reliability Engineering:** Resolved `FileNotFoundError` edge cases in image-generation samples by implementing automated directory creation and PEP 8-standardized path handling.
+  - View my PR: [https://github.com/tensorflow/tensorflow/pull/108476](https://github.com/GoogleCloudPlatform/python-docs-samples/pull/13737)
 
 ---
 
