@@ -28,6 +28,12 @@ Production-ready, privacy-first RAG system for secure document intelligence.
 -   **Key Feature:** Engineered a **Semantic Chunking** engine that splits text based on topic shifts rather than character counts, paired with **LanceDB hybrid search** for industry-leading retrieval accuracy.
 -   **Tech:** Next.js 15 (App Router), FastAPI, LanceDB (Vector Store), Ollama (Llama 3.2), Tailwind CSS.
 
+#### 🗺️ [Atlas-GRAG: Multi-Hop Supply Chain Intelligence](https://github.com/madhavmadupu/atlas-grag)
+*Advanced Graph-RAG system for mapping complex global supply chain dependencies and ripple-effect analysis.*
+- **Impact:** Built a reasoning engine that traverses relationship nodes to identify hidden market risks, solving the "disconnected data" problem where standard RAG systems fail in multi-hop queries.
+- **Key Feature:** Engineered a **Hybrid Retrieval Pipeline** that merges Neo4j graph traversals (Cypher) with ChromaDB semantic search, allowing the local LLM to reason across entities like suppliers, locations, and risk events.
+- **Tech:** Python, Neo4j (Graph DB), Ollama (Llama 3), LangChain, ChromaDB, Streamlit.
+
 #### 🤖 [LISA: Local Intelligence Software Architect](https://github.com/madhavmadupu/lisa-agentic)
 *Autonomous Multi-Agent System for Secure, Air-Gapped SDLC.*
 - **Impact:** Designed a local-first orchestration framework using **LangGraph** and **Ollama** to automate code generation, testing, and refactoring.
