@@ -77,4 +77,6 @@ I'm looking for roles at the intersection of **Generative AI, Finance, and Cloud
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.madupu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://madhavmadupu.vercel.app/)
 
+![](https://komarev.com/ghpvc/?username=madhavmadupu&color=grey)
+
 💡 **Learning Focus:** Scalable Agentic Workflows and DeepSeek Model fine-tuning.
